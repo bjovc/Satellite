@@ -9,3 +9,5 @@
 - **download_geoTiff_by_season**: código para descargar los netCDF según la estación del año. NO SE UTILIZA ya que mejor descargamos por mes en download_netCDF_and_geoTiff.
 
 - **donwload_and_visualize_by_season**: código para descargar los netCDF según la estación del año y visualizarlos. NO SE UTILIZA ya que mejor descargamos por mes en download_netCDF_and_geoTiff.
+
+All data used is stored [here](https://drive.google.com/drive/folders/1vavVD1FwBqZE2JTFReFWYtK4xu4lnI7Q?usp=sharing).
