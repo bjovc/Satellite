@@ -1,0 +1,31 @@
+{
+    "root": {
+        "classes": [
+            {
+                "id": 0,
+                "title": "MT",
+                "shape": "polygon",
+                "color": "#B0C827"
+            },
+            {
+                "id": 1,
+                "title": "PR",
+                "shape": "polygon",
+                "color": "#755DD6"
+            },
+            {
+                "id": 2,
+                "title": "PA",
+                "shape": "polygon",
+                "color": "#C640CD"
+            },
+            {
+                "id": 3,
+                "title": "PS",
+                "shape": "polygon",
+                "color": "#63DBD5"
+            }
+        ],
+        "tags": []
+    }
+}
